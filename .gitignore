@@ -1,4 +1,5 @@
-*.csv
+*.csv except resultados.csv
 *.json
 *.joblib
 img/
+CrearCSV.py
